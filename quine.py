@@ -1,0 +1,1 @@
+x = "print('x = '+ chr(34) + x + chr(34) + ';s = '+ chr(34) + x + chr(34) + 'exec(s)');";s = "print('x = '+ chr(34) + x + chr(34) + ';s = '+ chr(34) + x + chr(34) + 'exec(s)');";exec(s);
